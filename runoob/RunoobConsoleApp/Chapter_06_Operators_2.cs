@@ -16,6 +16,7 @@ namespace RunoobConsoleApp
         /// 程序的主入口点
         /// </summary>
         /// <param name="args">命令行参数</param>
+        /*
         public static void Main(string[] args)
         {
             {
@@ -46,8 +47,8 @@ namespace RunoobConsoleApp
                 {
                     Console.WriteLine("a 不大于 b");
                 }
-                
-                /* 改变 a 和 b 的值 */
+
+                // 改变 a 和 b 的值
                 a = 5;
                 b = 20;
                 if (a <= b)
@@ -58,9 +59,40 @@ namespace RunoobConsoleApp
                 {
                     Console.WriteLine("b 大于或等于 a");
                 }
-
-                Console.ReadLine();
             }
+            {
+                bool a = true;
+                bool b = true;
+                if (a && b)
+                {
+                    Console.WriteLine("条件为真");
+                }
+                if (a || b)
+                {
+                    Console.WriteLine("条件为真");
+                }
+                a = false;
+                b = false;
+                if (a && b)
+                {
+                    Console.WriteLine("条件为真");
+                }
+                else
+                {
+                    Console.WriteLine("条件不为真");
+                }
+                if (!(a && b))
+                {
+                    Console.WriteLine("条件为真");
+                }
+                else
+                {
+                    Console.WriteLine("条件不为真");
+                }
+            }
+
+            Console.ReadLine();
         }
+        */
     }
 }

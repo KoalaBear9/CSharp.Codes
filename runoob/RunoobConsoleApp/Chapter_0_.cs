@@ -18,7 +18,6 @@ namespace RunoobConsoleApp
         /// <param name="args">命令行参数</param>
         // public static void Main(string[] args)
         // {
-
         // }
     }
 }

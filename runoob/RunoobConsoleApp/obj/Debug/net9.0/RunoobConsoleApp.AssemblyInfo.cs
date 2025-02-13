@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RunoobConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04bfacbefcbdd4655b17a03cfa6d4b6d680d9d45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16d3e7ed88081edf6bef1fda537d73f5ba2a3150")]
 [assembly: System.Reflection.AssemblyProductAttribute("RunoobConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RunoobConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
