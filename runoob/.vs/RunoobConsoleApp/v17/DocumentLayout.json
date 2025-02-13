@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\csharp.codes\\runoob\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|d:\\csharp.codes\\runoob\\runoobconsoleapp\\chapter_01_basic_syntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|solutionrelative:runoobconsoleapp\\chapter_01_basic_syntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|d:\\csharp.codes\\runoob\\runoobconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|solutionrelative:runoobconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chapter_01_Basic_Syntax.cs",
+              "DocumentMoniker": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Chapter_01_Basic_Syntax.cs",
+              "RelativeDocumentMoniker": "RunoobConsoleApp\\Chapter_01_Basic_Syntax.cs",
+              "ToolTip": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Chapter_01_Basic_Syntax.cs",
+              "RelativeToolTip": "RunoobConsoleApp\\Chapter_01_Basic_Syntax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:03:26.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "RunoobConsoleApp\\Program.cs",
+              "ToolTip": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Program.cs",
+              "RelativeToolTip": "RunoobConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:20:56.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

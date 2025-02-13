@@ -1,0 +1,14 @@
+D:\csharp.codes\runoob\RunoobConsoleApp\bin\Debug\net9.0\RunoobConsoleApp.exe
+D:\csharp.codes\runoob\RunoobConsoleApp\bin\Debug\net9.0\RunoobConsoleApp.deps.json
+D:\csharp.codes\runoob\RunoobConsoleApp\bin\Debug\net9.0\RunoobConsoleApp.runtimeconfig.json
+D:\csharp.codes\runoob\RunoobConsoleApp\bin\Debug\net9.0\RunoobConsoleApp.dll
+D:\csharp.codes\runoob\RunoobConsoleApp\bin\Debug\net9.0\RunoobConsoleApp.pdb
+D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\RunoobConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\RunoobConsoleApp.AssemblyInfoInputs.cache
+D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\RunoobConsoleApp.AssemblyInfo.cs
+D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\RunoobConsoleApp.csproj.CoreCompileInputs.cache
+D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\RunoobConsoleApp.dll
+D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\refint\RunoobConsoleApp.dll
+D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\RunoobConsoleApp.pdb
+D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\RunoobConsoleApp.genruntimeconfig.cache
+D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\ref\RunoobConsoleApp.dll
