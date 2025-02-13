@@ -16,18 +16,18 @@ namespace RunoobConsoleApp
         /// 程序的主入口点
         /// </summary>
         /// <param name="args">命令行参数</param>
-        public static void Main(string[] args)
-        {
-            short shortNumber;
-            int intNumber ;
-            double doubleNumber;
+        // public static void Main(string[] args)
+        // {
+        //     short shortNumber;
+        //     int intNumber ;
+        //     double doubleNumber;
 
-            /* 实际初始化 */
-            shortNumber = 10;
-            intNumber = 20;
-            doubleNumber = shortNumber + intNumber;
-            Console.WriteLine("shortNumber = {0}, intNumber = {1}, doubleNumber = {2}", shortNumber, intNumber, doubleNumber);
-            Console.ReadLine();
-        }
+        //     /* 实际初始化 */
+        //     shortNumber = 10;
+        //     intNumber = 20;
+        //     doubleNumber = shortNumber + intNumber;
+        //     Console.WriteLine("shortNumber = {0}, intNumber = {1}, doubleNumber = {2}", shortNumber, intNumber, doubleNumber);
+        //     Console.ReadLine();
+        // }
     }
 }

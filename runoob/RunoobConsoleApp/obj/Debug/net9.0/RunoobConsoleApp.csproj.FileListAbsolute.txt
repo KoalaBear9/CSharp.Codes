@@ -12,3 +12,4 @@ D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\refint\RunoobConsoleApp
 D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\RunoobConsoleApp.pdb
 D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\RunoobConsoleApp.genruntimeconfig.cache
 D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\ref\RunoobConsoleApp.dll
+D:\csharp.codes\runoob\RunoobConsoleApp\obj\Debug\net9.0\RunoobConsoleApp.sourcelink.json
