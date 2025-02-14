@@ -138,7 +138,6 @@ namespace RunoobConsoleApp
                 Console.WriteLine($"New Color: {new_color:X8}");
             }
 
-
             {
                 // 加密与校验算法
                 // 场景：异或用于简单加密，CRC校验中使用位运算。
@@ -165,6 +164,40 @@ namespace RunoobConsoleApp
                 string decryptedData = System.Text.Encoding.UTF8.GetString(dataArray);
                 Console.WriteLine("解密后的字符串: " + decryptedData);
 
+            }
+
+            {
+                // 位图（Bitmap）索引
+                // 场景：数据库或大数据处理中用位图快速筛选数据。
+                // 表示用户ID 0~7的在线状态
+                byte online_status = 0b00101101;
+
+                // 检查用户ID=5是否在线
+                int user_id = 5;
+
+                if ((online_status & (1 << user_id)) != 0)
+                {
+                    Console.WriteLine("用户{0}在线", user_id);
+                }
+                else
+                {
+                    Console.WriteLine("用户{0}不在线", user_id);
+                }
+            }
+
+            {
+                // 优化算法性能
+                // 场景：替代部分算术运算以提高速度，如判断奇偶性。
+                // 判断奇偶性（比 n % 2 更快）
+                int n = 7;
+                if ((n & 1) != 0)
+                {  // 二进制末位为1 → 奇数
+                    Console.WriteLine($"{n}为奇数");
+                }
+                else
+                {
+                    Console.WriteLine($"{n}为偶数");
+                }
             }
             Console.ReadLine();
         }
