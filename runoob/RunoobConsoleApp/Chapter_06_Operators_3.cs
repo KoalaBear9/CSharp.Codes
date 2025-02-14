@@ -1,10 +1,10 @@
-
 /**
  * 菜鸟教程控制台应用示例
  * 
  * @author  Jason
  * @date    2025-02-11
  */
+
 namespace RunoobConsoleApp
 {
 
@@ -16,29 +16,30 @@ namespace RunoobConsoleApp
         /// 程序的主入口点
         /// </summary>
         /// <param name="args">命令行参数</param>
+        /*
         public static void Main(string[] args)
         {
             {
-                int a = 60;            /* 60 = 0011 1100 */
-                int b = 13;            /* 13 = 0000 1101 */
+                int a = 60;            // 60 = 0011 1100
+                int b = 13;            // 13 = 0000 1101
                 int c = 0;
 
-                c = a & b;           /* 12 = 0000 1100 */
+                c = a & b;           // 12 = 0000 1100
                 Console.WriteLine("Line 1 - c 的值是 {0}", c);
 
-                c = a | b;           /* 61 = 0011 1101 */
+                c = a | b;           // 61 = 0011 1101
                 Console.WriteLine("Line 2 - c 的值是 {0}", c);
 
-                c = a ^ b;           /* 49 = 0011 0001 */
+                c = a ^ b;           // 49 = 0011 0001
                 Console.WriteLine("Line 3 - c 的值是 {0}", c);
 
-                c = ~a;               /*-61 = 1100 0011 */
+                c = ~a;               //-61 = 1100 0011
                 Console.WriteLine("Line 4 - c 的值是 {0}", c);
 
-                c = a << 2;     /* 240 = 1111 0000 */
+                c = a << 2;     // 240 = 1111 0000
                 Console.WriteLine("Line 5 - c 的值是 {0}", c);
 
-                c = a >> 2;     /* 15 = 0000 1111 */
+                c = a >> 2;     // 15 = 0000 1111
                 Console.WriteLine("Line 6 - c 的值是 {0}", c);
             }
 
@@ -50,28 +51,7 @@ namespace RunoobConsoleApp
 
                 byte flags = 0b00000011;
 
-                // 检查是否包含 FLAG_B
-                if ((flags & FLAG_B) != 0)
-                {  // 0b00000011 & 0b00000010 → 0b00000010 (非0)
-                    Console.WriteLine("FLAG_B 已设置");
-                }
-
-                // 示例2：清除指定位（将第3位设为0）
-                flags &= unchecked((byte)~(1 << 2));  // 清除第3位（从0计数）
-                Console.WriteLine($"清除第3位后，flags 的值是 {Convert.ToString(flags, 2).PadLeft(8, '0')}"); // 清除第3位（从0计数）
-                flags &= (byte)(~(1 << 2) & 0xFF); ;  // 清除第3位（从0计数）
-                Console.WriteLine($"清除第3位后，flags 的值是 {Convert.ToString(flags, 2).PadLeft(8, '0')}"); // 清除第3位（从0计数）
-            }
-
-
-            {
-                // 掩码操作（Bitmasking）
-                // 场景：提取或设置数据的特定位，常见于硬件寄存器操作、协议解析、图像处理等。
-                const byte FLAG_A = 1 << 0;   // 0000 0001
-                const byte FLAG_B = 1 << 1;   // 0000 0010
-
-                byte flags = 0b00000011;
-
+                Console.WriteLine    ($"FLAG_A 的值是 {FLAG_A:X2}");
                 // 检查是否包含 FLAG_B
                 if ((flags & FLAG_B) != 0)
                 {  // 0b00000011 & 0b00000010 → 0b00000010 (非0)
@@ -209,5 +189,6 @@ namespace RunoobConsoleApp
             WRITE = 1 << 1,   // 0010
             EXECUTE = 1 << 2  // 0100
         }
+        */
     }
 }
