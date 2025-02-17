@@ -19,6 +19,7 @@ namespace RunoobConsoleApp
         /// 程序的主入口点
         /// </summary>
         /// <param name="args">命令行参数</param>
+        /*
         public static void Main(string[] args)
         {
             {
@@ -54,7 +55,20 @@ namespace RunoobConsoleApp
                 }
                 Console.WriteLine("Number of elements in the array: {0}", count);
             }
+
+            {
+                List<string> myStrings = new List<string>();
+                myStrings.Add("Google");
+                myStrings.Add("Runoob");
+                myStrings.Add("Taobao");
+                
+                foreach (string s in myStrings)
+                {
+                    Console.WriteLine(s);
+                }
+            }
             Console.ReadLine();
         }
+        */
     }
 }

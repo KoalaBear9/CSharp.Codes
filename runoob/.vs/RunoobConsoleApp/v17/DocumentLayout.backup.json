@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\csharp.codes\\runoob\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|d:\\csharp.codes\\runoob\\runoobconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|solutionrelative:runoobconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|d:\\csharp.codes\\runoob\\runoobconsoleapp\\chapter_08_forloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|solutionrelative:runoobconsoleapp\\chapter_08_forloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|d:\\csharp.codes\\runoob\\runoobconsoleapp\\chapter_07_decisionnestedswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|solutionrelative:runoobconsoleapp\\chapter_07_decisionnestedswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|d:\\csharp.codes\\runoob\\runoobconsoleapp\\chapter_07_decisionswitch copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|solutionrelative:runoobconsoleapp\\chapter_07_decisionswitch copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|d:\\csharp.codes\\runoob\\runoobconsoleapp\\chapter_08_loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|solutionrelative:runoobconsoleapp\\chapter_08_loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|d:\\csharp.codes\\runoob\\runoobconsoleapp\\chapter_08_whileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D84915-8B7D-4827-86CF-C18BBB01649F}|RunoobConsoleApp\\RunoobConsoleApp.csproj|solutionrelative:runoobconsoleapp\\chapter_08_whileloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +30,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Program.cs",
-              "RelativeDocumentMoniker": "RunoobConsoleApp\\Program.cs",
-              "ToolTip": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Program.cs",
-              "RelativeToolTip": "RunoobConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Chapter_07_DecisionNestedSwitch.cs",
+              "DocumentMoniker": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Chapter_07_DecisionNestedSwitch.cs",
+              "RelativeDocumentMoniker": "RunoobConsoleApp\\Chapter_07_DecisionNestedSwitch.cs",
+              "ToolTip": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Chapter_07_DecisionNestedSwitch.cs",
+              "RelativeToolTip": "RunoobConsoleApp\\Chapter_07_DecisionNestedSwitch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T05:20:56.418Z",
+              "WhenOpened": "2025-02-14T09:31:44.513Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chapter_07_DecisionSwitch copy.cs",
+              "DocumentMoniker": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Chapter_07_DecisionSwitch copy.cs",
+              "RelativeDocumentMoniker": "RunoobConsoleApp\\Chapter_07_DecisionSwitch copy.cs",
+              "ToolTip": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Chapter_07_DecisionSwitch copy.cs",
+              "RelativeToolTip": "RunoobConsoleApp\\Chapter_07_DecisionSwitch copy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:31:43.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chapter_08_ForLoop.cs",
+              "DocumentMoniker": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Chapter_08_ForLoop.cs",
+              "RelativeDocumentMoniker": "RunoobConsoleApp\\Chapter_08_ForLoop.cs",
+              "ToolTip": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Chapter_08_ForLoop.cs",
+              "RelativeToolTip": "RunoobConsoleApp\\Chapter_08_ForLoop.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:31:42.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chapter_08_Loops.cs",
+              "DocumentMoniker": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Chapter_08_Loops.cs",
+              "RelativeDocumentMoniker": "RunoobConsoleApp\\Chapter_08_Loops.cs",
+              "ToolTip": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Chapter_08_Loops.cs",
+              "RelativeToolTip": "RunoobConsoleApp\\Chapter_08_Loops.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:31:41.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chapter_08_WhileLoop.cs",
+              "DocumentMoniker": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Chapter_08_WhileLoop.cs",
+              "RelativeDocumentMoniker": "RunoobConsoleApp\\Chapter_08_WhileLoop.cs",
+              "ToolTip": "D:\\csharp.codes\\runoob\\RunoobConsoleApp\\Chapter_08_WhileLoop.cs",
+              "RelativeToolTip": "RunoobConsoleApp\\Chapter_08_WhileLoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:27:44.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
